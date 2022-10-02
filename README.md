@@ -1,1 +1,2 @@
 # simple-gui-projects
+[hacktoberfest]
