@@ -1,2 +1,2 @@
 # simple-gui-projects
-[hacktoberfest]
+Contribute your favourite Tkiinter projects...
