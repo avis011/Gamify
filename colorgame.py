@@ -89,7 +89,7 @@ if __name__=='__main__':
     timeLabel.pack()
 
     #create a colour label
-    colour = Label(root, font=('Helevetica',12))
+    colour = Label(root, font=('Helevetica',14))
     colour.pack()
 
     #Entry box for input from user
