@@ -1,10 +1,7 @@
 from tkinter import *
 from tkinter.ttk import *
 from time import strftime
-import pyfiglet
 
-fig = pyfiglet.figlet_format("Avi's program",font="slant")
-print(fig)
 root=Tk()
 root.title('Clock')
 def time():
